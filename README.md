@@ -1,4 +1,4 @@
-**Book-Store-App**
+**Book-Store-App-Mern**
 
 The Book Store App is a full-stack web application designed to manage and facilitate the sale of books. Built using the MERN stack—MongoDB, Express.js, React, and Node.js—this application provides a seamless user experience for browsing, purchasing, and managing books.
 
